@@ -1,0 +1,47 @@
+h1{
+    text-align: center;
+    background-color: cornflowerblue;
+    color: gold;
+    font-family:'Courier New', Courier, monospace
+}
+
+.starter{
+    display:block;
+    margin-left:auto;
+    margin-right:auto;
+    border:solid blue 10px;
+}
+
+#bulbasaur_container{
+    background: mediumseagreen;
+    border: solid mediumseagreen 20px;
+    color: white;
+    font-family:'Courier New', Courier, monospace
+}
+
+#charmander_container{
+    background: tomato;
+    border: solid tomato 20px;
+    color: white;
+    font-family:'Courier New', Courier, monospace
+}
+
+#squirtle_container{
+    background: lightblue;
+    border: solid lightblue 20px;
+    color: white;
+    font-family:'Courier New', Courier, monospace
+}
+
+body{
+    background: black;
+    color: white;
+}
+
+.pokemon_images{
+    display:block;
+    margin-left:auto;
+    margin-right:auto;
+    width:200px;
+    height:200px;
+}
